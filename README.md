@@ -10,6 +10,10 @@ I like the restaurant because they have krabbie patties
 
 ---
 ## Dishes
-* Krabbie Patty
-* Jelly Patty
-* Salty Sea Dog
+1. Krabbie Patty
+2. Jelly Patty
+3. Salty Sea Dog
+
+* The Chum Bucket
+* Weenie Hut Jr's
+* The Salty Spitoon
