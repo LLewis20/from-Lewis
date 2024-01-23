@@ -17,3 +17,5 @@ I like the restaurant because they have krabbie patties
 * The Chum Bucket
 * Weenie Hut Jr's
 * The Salty Spitoon
+
+[My Media](MyMedia.md)
