@@ -38,3 +38,24 @@ The table below is some books, songs, or movies that I would recommend to anyone
 
 > "The most important property of a program is whether it accomplishes the intention of its user." - *Tony Hoare.*
 
+---
+# Code Fencing
+
+In the following Node.js sample code, the event module includes an EventEmitter class that can be used to raise and handle custom events.
+
+```javascript
+const myEmitter = new EventEmitter();
+
+function c1() {
+	console.log('an event occurred!');
+}
+
+function c2() {
+	console.log('yet another event occurred!');
+}
+
+myEmitter.on('eventOne', c1); // Register for eventOne
+myEmitter.on('eventOne', c2); // Register for eventOne 
+```
+
+Here is the link to find the snippet of code: <https://code.pieces.app/collections/node-js>
